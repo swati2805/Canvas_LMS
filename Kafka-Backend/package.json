@@ -12,6 +12,6 @@
     "bcrypt": "^3.0.5",
     "bcrypt-nodejs": "0.0.3",
     "kafka-node": "^3.0.1",
-    "mongoose": "^5.3.7"
+    "mongoose": "^5.7.5"
   }
 }
