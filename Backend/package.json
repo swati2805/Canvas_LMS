@@ -22,7 +22,7 @@
     "express-fileupload": "^1.1.2-alpha.1",
     "express-session": "^1.15.6",
     "express-sessions": "^1.0.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "kafka-node": "^3.0.1",
     "mocha": "^5.2.0",
     "multer": "^1.4.1",
